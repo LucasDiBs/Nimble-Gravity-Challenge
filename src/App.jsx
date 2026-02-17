@@ -55,6 +55,7 @@ function App() {
               <p><strong>Candidato:</strong> {candidate.firstName} {candidate.lastName}</p>
               <p><strong>UUID:</strong> <code style={{fontSize: '11px'}}>{candidate.uuid}</code></p>
               <p><strong>Candidate ID:</strong> <code>{candidate.candidateId}</code></p>
+                            
             </div>
           )}
         </header>
